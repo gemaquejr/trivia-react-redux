@@ -32,6 +32,8 @@ O projeto foi desenvolvido em grupo onde aplicamos os conhecimentos sobre o mét
 
 - [React](https://reactjs.org/): Biblioteca JavaScript para criar interfaces de usuário
 
+- [Redux](https://redux.js.org/): Biblioteca JavaScript para gerenciar o estado do aplicativo.
+
 ## :hammer_and_wrench: Antes de iniciar o projeto.
 
 No diretório do projeto, instale as dependências e inicialize o projeto:
